@@ -1,0 +1,1 @@
+This repository contains the R code for the Confidence Interval and Hypothesis Testing components of the STAT 516 Final Project. The heart 2.csv file contains the Kaggle dataset of Heart Failure Data as found at this link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
